@@ -1,6 +1,6 @@
-# Awesome Website Project
+# David Chang Website Project
 
-Welcome to our awesome website project! This project showcases a modern website built with the GreenSock Animation Platform (GSAP) and Sherry.js libraries. With smooth animations and interactive elements, this website aims to captivate its visitors while providing an engaging user experience.
+Welcome to my awesome website project! This project showcases a modern website built with the GreenSock Animation Platform (GSAP) and Sherry.js libraries. With smooth animations and interactive elements, this website aims to captivate its visitors while providing an engaging user experience.
 
 ## Features
 
@@ -24,7 +24,7 @@ To get started with the project, follow these steps:
     Simply open the index.html file in your preferred web browser to view the website.
 
 # Contributing
-We welcome contributions from the community! Whether it's reporting bugs, suggesting enhancements, or adding new features, your contributions are highly appreciated. To contribute, follow these steps:
+I welcome contributions from the community! Whether it's reporting bugs, suggesting enhancements, or adding new features, your contributions are highly appreciated. To contribute, follow these steps:
 
 1. Fork the Repository: Click on the 'Fork' button on the top-right corner of the repository page.
 2. Clone your Fork: Clone the forked repository to your local machine.
@@ -42,6 +42,6 @@ GSAP: A big thank you to the team behind GSAP for providing such powerful animat
 Sherry.js: Special thanks to the creators of Sherry.js for enabling us to add interactive elements to our website effortlessly.
 Open Source Community: We're grateful to the open-source community for their continuous support and inspiration.
 Contact
-If you have any questions, suggestions, or just want to say hi, feel free to reach out to us at your-email@example.com.
+If you have any questions, suggestions, or just want to say hi, feel free to reach out to me at samratbandre@gmail.com
 
-Enjoy exploring our awesome website! 🚀
+Enjoy exploring my modern web design project! 🚀
