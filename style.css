@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'kajiro';
+    src: url('./Kajiro\ Bold.otf') format('opentype');
+}
+
 * {
     margin: 0;
     padding: 0;
