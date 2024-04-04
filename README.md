@@ -19,21 +19,22 @@ To get started with the project, follow these steps:
    git clone [https://github.com/blackholeofuniverse/davidchang/]
 
 2. **Navigate to the Project Directory:**
-  ```cd awesome-website
-3. **Open index.html in your browser:**
+  ```cd awesome-website```
+3.ut **Open index.html in your browser:**
     Simply open the index.html file in your preferred web browser to view the website.
 
 # Contributing
 We welcome contributions from the community! Whether it's reporting bugs, suggesting enhancements, or adding new features, your contributions are highly appreciated. To contribute, follow these steps:
 
-Fork the Repository: Click on the 'Fork' button on the top-right corner of the repository page.
-Clone your Fork: Clone the forked repository to your local machine.
-Create a Branch: Create a new branch for your contributions.
-Make Changes: Make your desired changes to the codebase.
-Commit Changes: Commit your changes with an appropriate message.
-Push Changes: Push your changes to your forked repository.
-Submit a Pull Request: Submit a pull request to the main repository detailing your changes.
-License
+1. Fork the Repository: Click on the 'Fork' button on the top-right corner of the repository page.
+2. Clone your Fork: Clone the forked repository to your local machine.
+3. Create a Branch: Create a new branch for your contributions.
+4. Make Changes: Make your desired changes to the codebase.
+5. Commit Changes: Commit your changes with an appropriate message.
+6. Push Changes: Push your changes to your forked repository.
+7. Submit a Pull Request: Submit a pull request to the main repository detailing your changes.
+   
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 # Acknowledgements
