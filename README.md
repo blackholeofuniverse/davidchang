@@ -20,7 +20,7 @@ To get started with the project, follow these steps:
 
 2. **Navigate to the Project Directory:**
   ```cd awesome-website```
-3.ut **Open index.html in your browser:**
+3. **Open index.html in your browser:**
     Simply open the index.html file in your preferred web browser to view the website.
 
 # Contributing
